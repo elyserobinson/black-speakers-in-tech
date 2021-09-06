@@ -1014,8 +1014,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Elyse Y. Robinson
 
-- [@mselyserobinson](http://twitter.com/mselyserobinson)
-- Topics: Switching Careers, Becoming an Entrepreneur in IT
+- [Switch Into Tech](http://www.switchintotech.com)
+- Topics: Switching Careers into Tech, Becoming an Entrepreneur in Tech, Cloud Engineering, Cloud Security, Azure, AWS
 - Location: Houston, Texas
 
 #### Craig Rodrigues
